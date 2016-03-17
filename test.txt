@@ -1,0 +1,2 @@
+普通字符串
+com.yozoe.file.PrintStreamTest@1540e19d
