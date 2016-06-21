@@ -1,4 +1,4 @@
-package com.yozoe.concurrent;
+package com.javanote.concurrent;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

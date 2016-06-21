@@ -1,4 +1,4 @@
-package com.yozoe.file;
+package com.javanote.file;
 
 import java.io.FileWriter;
 import java.io.IOException;

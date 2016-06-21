@@ -1,4 +1,4 @@
-package com.yozoe.concurrent;
+package com.javanote.concurrent;
 
 public class JoinThread extends Thread {
 	
