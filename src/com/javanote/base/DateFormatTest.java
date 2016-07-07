@@ -5,7 +5,6 @@ import java.text.ParseException;
 import java.util.Date;
 import java.util.Locale;
 
-import javafx.scene.input.DataFormat;
 
 public class DateFormatTest {
 	
